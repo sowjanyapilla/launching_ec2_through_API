@@ -46,7 +46,7 @@ Clone your GitHub repository containing the code/scripts required to launch an E
   
   4.Security: Open or secure the API based on your requirements.
   
-  5.API type: Choose "HTTP API."
+  5.API type: Choose "REST API."
   
   6.Click "Add."
   
